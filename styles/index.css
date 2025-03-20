@@ -1,0 +1,10 @@
+.birdcontainer {
+    width: 600px;
+    height: 600px;
+    background-image: url(../images/bird-svgrepo-com.svg);
+}
+
+.wing {
+    fill: green;
+    stroke: red;
+}
